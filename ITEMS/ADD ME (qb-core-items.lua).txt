@@ -1,0 +1,25 @@
+['lundgrens'] = {
+    ['name'] = 'lundgrens',
+    ['label'] = 'Lundgrens Skåne',
+    ['weight'] = 500,
+    ['type'] = 'item',
+    ['image'] = 'lundgrens.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Ta en snus och en kaffe och njut av livet! - Max'
+},
+
+['velo'] = {
+    ['name'] = 'velo',
+    ['label'] = 'Velo Freeze',
+    ['weight'] = 500,
+    ['type'] = 'item',
+    ['image'] = 'velo.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Ta en snus och en kaffe och njut av livet! - Max'
+},
